@@ -1,6 +1,6 @@
-## Dark mode theme
+##Dark mode theme
 
-<h2>Aula do professor Lucas Caton no Youtube.<h2>
+ -Aula do professor Lucas Caton no Youtube
 
  <p> Um simples dark mode theme.</p>
 
