@@ -1,8 +1,8 @@
-##Dark mode theme
+## Dark-mode-theme
 
  -Aula do professor Lucas Caton no Youtube
 
- <p> Um simples dark mode theme.</p>
+ <h4> Um simples dark mode theme </h4>
 
 <img src="dark-theme.png" alt="">
 <span>_______________________________________________________________________________________________<span>
